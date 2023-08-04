@@ -1,12 +1,11 @@
 {
-  "name": "backend",
+  "name": "emp-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "node index.js",
-    "build": "npm i"
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
